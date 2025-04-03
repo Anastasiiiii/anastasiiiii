@@ -44,7 +44,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anastasiiiii&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
   <picture>
