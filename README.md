@@ -42,6 +42,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anastasiiiii&theme=github-light" alt="Contribution Graph" />
 </picture>
 
+---
+## ✨ Web Development Projects
+
+<img src="https://github.com/Anastasiiiii/dessert-shop-landing-challenge/blob/main/assets/dessert-shop-landing-gif.gif" width = "350px" height="150" />  <img src="https://github.com/Anastasiiiii/social-media-dashboard-with-theme-switcher/blob/main/assets/social-media-dashboard.gif" width = "350px" height="150" />  <img src="https://github.com/Anastasiiiii/agency-landing-page/blob/main/assets/agency-landing-page.gif" width = "350px" height="150" />  <img src="./assets/development-academy.gif" width = "350px" height="150" />
+
+
+
+
 
 ---
 
