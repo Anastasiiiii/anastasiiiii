@@ -34,13 +34,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://nirzak-streak-stats.vercel.app/?user=anastasiiiii&theme=default&hide_border=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=anastasiiiii&theme=default&hide_border=false" alt="GitHub Streak" />
 </picture>
-</br>
-</br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anastasiiiii&theme=tokyo-night" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anastasiiiii&theme=github-light" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anastasiiiii&theme=github-light" alt="Contribution Graph" />
-</picture>
+
 
 ---
 ## ✨ Web Development Projects
