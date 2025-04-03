@@ -45,6 +45,12 @@
 
 ---
 
+## 🐍 Play My Snake Game!
+
+You can try out my simple retro-style Snake game written in Java — challenge your reflexes and see how long you can survive!
+
+🎮 [Click here to open the game code](https://github.com/Anastasiiiii/java-projects/tree/main/Games/src/main/java/org/games/Snake)
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
